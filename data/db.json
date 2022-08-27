@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "First Post",
+      "datetime": "August 27, 2022 7:27:02 PM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
+    },
+    {
+      "id": 3,
+      "title": "All in All..",
+      "datetime": "August 27, 2022 1:22:10 AM",
+      "body": "Serdium ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
+    },
+    {
+      "id": 5,
+      "title": "Things Fall",
+      "datetime": "August 27, 2022 7:27:20 PM",
+      "body": "Things really do fall apart, everyone in chaos. All running pointless causing an uncontrollable disorderliness.."
+    },
+    {
+      "id": 6,
+      "title": "Every people",
+      "datetime": "August 26, 2022 11:49:07 PM",
+      "body": "Please come to my party guys, Making things work really feels good guys"
+    }
+  ]
+}
